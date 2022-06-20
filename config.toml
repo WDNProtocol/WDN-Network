@@ -1,0 +1,13 @@
+[base]
+data_path = "./node"
+
+[network]
+port = 9000
+known_nodes = []
+
+[node_config]
+principal_id = "aaaa-aaaa-aaaa-aaaa-aaaa"
+
+[api_config]
+host = "127.0.0.1"
+port = 8080
